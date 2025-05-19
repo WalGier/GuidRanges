@@ -81,6 +81,7 @@
 | 96 | New Horizon | Quay System Asia Base Buildable |
 | 100 | Jakob | NW Stone Pavement NW Greenery |
 | 101 | Jakob | OW Stone Concrete Industry |
+| 102 | WalGier | Arctic Road on Water |
 | 121 | New Horizon | Simple Street Asia |
 | 122 | New Horizon | Fast Street Asia |
 | 140 | Lion053 | Enclosed Greenery with Palms |
